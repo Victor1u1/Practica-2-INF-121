@@ -50,7 +50,7 @@ class Universidad {
 
 public class Main {
     public static void main(String[] args) {
-        Universidad u = new Universidad("Universidad Nacional");
+        Universidad u = new Universidad("Universidad Mayor de San Andres");
         Estudiante e1 = new Estudiante("Ana", "Ingeniería", 3);
         Estudiante e2 = new Estudiante("Luis", "Medicina", 5);
         Estudiante e3 = new Estudiante("Marta", "Derecho", 2);
