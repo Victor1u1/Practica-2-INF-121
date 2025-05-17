@@ -1,6 +1,5 @@
 import java.util.ArrayList;
 
-// Clase Habitacion
 class Habitacion {
     private String nombre;
     private double tamano;
@@ -31,7 +30,6 @@ class Habitacion {
     }
 }
 
-// Clase Casa
 class Casa {
     private String direccion;
     private ArrayList<Habitacion> habitaciones;
