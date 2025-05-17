@@ -1,6 +1,5 @@
 import java.util.ArrayList;
 
-// Clase Parte
 class Parte {
     private String nombre;
     private double peso;
@@ -31,7 +30,6 @@ class Parte {
     }
 }
 
-// Clase Avion
 class Avion {
     private String modelo;
     private String fabricante;
@@ -75,7 +73,6 @@ class Avion {
     }
 }
 
-// Clase Main
 public class Main {
     public static void main(String[] args) {
         Avion avion = new Avion("Boeing 737", "Boeing");
